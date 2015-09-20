@@ -2,6 +2,13 @@
 ## -*- coding: utf-8 -*-
 
 __author__ = 'Carl Johan Rehn'
+__maintainer__ = "Carl Johan Rehn"
+__email__ = "care02@gmail.com"
+__credits__ = ["Sydney, The Red Merle"]
+__copyright__ = "Copyright (c) 2015, Carl Johan Rehn"
+__license__ = "The MIT License (MIT)"
+__version__ = "0.1.0"
+__status__ = "Development"
 
 import sqlite3
 import pandas as pd
